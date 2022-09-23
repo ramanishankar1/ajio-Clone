@@ -1,0 +1,24 @@
+.dressProducts{
+    width:215px ;
+    height: 260px;
+    border: solid 1px black;
+    margin:10px 10px;
+    text-align: center;
+    /* padding: 0px 7px; */
+    
+}
+
+img{
+    height: 110px;
+    width:  120px;
+    border: solid 1px black;
+    margin: 20px 50px;
+
+}
+
+/* .dressDetails{
+    bottom: 8px;
+} */
+.category{
+    padding: 4px;
+}

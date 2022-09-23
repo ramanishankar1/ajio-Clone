@@ -1,0 +1,29 @@
+.loginWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    height: 85vh;
+    
+}
+
+.loginContainer{
+    width:400px;
+    height:300px;
+    border:solid 5px red;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+
+}
+form{
+    margin: 30px;
+    text-align: center;
+    
+
+}
+.password{
+    margin: 30px 0px;
+}
